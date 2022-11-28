@@ -55,7 +55,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "libssh2",
-            path: "libssh2.xcframework"
+            url: "https://github.com/mfcollins3/libssh2-apple/releases/download/0.1.0/libssh2.zip",
+            checksum: "18ad96b7d1ed7d2f095cd1221ebeb4e3fb1f9ac86ba90a154ca5fa84da0c2d8d"
         )
     ]
 )
