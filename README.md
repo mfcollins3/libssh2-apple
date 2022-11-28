@@ -1,4 +1,4 @@
-# libssh2 Swift Packafge
+# libssh2 Swift Package
 
 ## Overview
 

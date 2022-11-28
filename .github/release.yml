@@ -24,7 +24,7 @@ changelog:
       - build
       - chore
       - ci
-      - docs
+      - documentation
       - perf
       - refactor
       - revert
