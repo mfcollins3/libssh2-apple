@@ -1,0 +1,4 @@
+module CSSH2 {
+    header "CSSH2.h"
+    export *
+}
