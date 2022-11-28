@@ -1,0 +1,6 @@
+[submodule "External/libssh2"]
+	path = External/libssh2
+	url = https://github.com/libssh2/libssh2.git
+[submodule "external/ios-cmake"]
+	path = external/ios-cmake
+	url = https://github.com/leetal/ios-cmake.git
